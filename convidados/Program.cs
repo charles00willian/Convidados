@@ -12,6 +12,7 @@ namespace convidados
         {
             public string nome;
             public int idade;
+            public string telefone;
             public Convidado proximo;
         }
 
